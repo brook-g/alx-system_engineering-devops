@@ -8,4 +8,5 @@
 # - *5-listfilesdigitonly* displays all current directory content in long format, user and group IDs displayed numberically, and hidden files
 # - *6-firstdirectory* creates a directory in /tmp
 # - *7-movethatfile* moves the file betty from tmp to tmp/my_first_directory
-# - *
+# - *8-firstdelete* deletes betty from /tmp/my_first_directory
+# - *9-firstdirdeletion* deletes /tmp/my_first_directory
