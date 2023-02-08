@@ -4,3 +4,4 @@
 # - *1-listit* lists files in current directory
 # - *2-bring_me_home* displays user's home directory
 # - *3-listfiles* displays contents of current directory in a long format
+# - *4-listfilesdigitonly* displays all current directory content in long format, user and group IDs displayed numberically, and hidden files
