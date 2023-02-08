@@ -1,5 +1,6 @@
 # This directory contains files from the 0x00 Shell, Basics exercise. Here are descriptions of the scripts:
 
-# - *0-current_working_directory*
-# - *1-listit*
-# - *2-bring_me_home*
+# - *0-current_working_directory* displays current working directory
+# - *1-listit* lists files in current directory
+# - *2-bring_me_home* displays user's home directory
+# - *3-listfiles* displays contents of current directory in a long format
