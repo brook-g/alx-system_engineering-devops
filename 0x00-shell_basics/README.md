@@ -7,3 +7,5 @@
 # - *4-listmorefiles* displays content of current directory including hidden files
 # - *5-listfilesdigitonly* displays all current directory content in long format, user and group IDs displayed numberically, and hidden files
 # - *6-firstdirectory* creates a directory in /tmp
+# - *7-movethatfile* moves the file betty from tmp to tmp/my_first_directory
+# - *
