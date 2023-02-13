@@ -1,2 +1,2 @@
 #!/bin/bash
-dir -t | head -n 5
+dir -l -t | head -n 10
