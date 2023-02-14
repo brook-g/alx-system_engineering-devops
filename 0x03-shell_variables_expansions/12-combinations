@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z} | tr -d 'oo' | tr ' ' '\n' | sort | head -n 64 | grep -o ..
+echo {a..z}{a..z} | tr -d oo | grep -o .. | sort
