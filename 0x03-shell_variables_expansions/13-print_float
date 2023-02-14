@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%0.2f\n' {1..9} | head -n 1 > NUM
+echo '%0.2f\n' {1..9} | head -n 1 > NUM
