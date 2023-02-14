@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z} | tr -d 'oo' | tr ' ' '\n' | sort | head -n 32
+echo {a..z}{a..z} | tr -d 'oo' | tr ' ' '\n' | sort | head -n 32 | grep -E "^.{2}"
