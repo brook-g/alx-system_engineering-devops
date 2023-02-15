@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%s.%s2\n" {1..9} | head -n 1
+printf "%s.%s2\n" $NUM | sort
