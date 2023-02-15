@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(($RANDOM%33)).$(($RANDOM%99))"
+bc <<< "scale=2; 1 + 1.5 * $RANDOM / 32767"
