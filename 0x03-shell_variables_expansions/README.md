@@ -1,4 +1,4 @@
-hell, init files, variables and expansions
+# 0x03. Shell, init files, variables and expansions
 A project done during Full Stack Software Engineering course at ALX.
 
 ## Technologies
