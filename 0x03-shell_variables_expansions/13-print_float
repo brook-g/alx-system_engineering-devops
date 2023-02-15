@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%0.2f\n' {1..9} | head -n 1
+echo "$(($RANDOM%33)).$(($RANDOM%99))"
